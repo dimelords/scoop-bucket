@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/dimelords/huddle/releases/download/v0.2.0/huddle-mcp_0.2.0_windows_amd64.zip",
+            "bin": [
+                "huddle-mcp.exe"
+            ],
+            "hash": "d095685984efe131451804275a32314c74d4e99d0482bc3c625741afdb8c7dfb"
+        },
+        "arm64": {
+            "url": "https://github.com/dimelords/huddle/releases/download/v0.2.0/huddle-mcp_0.2.0_windows_arm64.zip",
+            "bin": [
+                "huddle-mcp.exe"
+            ],
+            "hash": "dc1abf1702f824831c7916a084f365fe8436f9b8d6979c97af8b05120c47a16b"
+        }
+    },
+    "homepage": "https://github.com/dimelords/huddle",
+    "license": "MIT",
+    "description": "The huddle client for Claude Code: the pane's hooks, the channel bridge and image uploads"
+}
